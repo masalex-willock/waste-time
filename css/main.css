@@ -1,0 +1,10 @@
+/*my fonts*/
+
+.lato{
+	font-family: lato, segoe, cursive sans-serif;
+	letter-spacing: .1em;
+}
+
+/*the header*/
+header{
+	background: aliceblue url("../media/imgs/headerbgi.jpg");
